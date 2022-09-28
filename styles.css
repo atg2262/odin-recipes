@@ -1,0 +1,36 @@
+.Heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    color: burlywood;
+}
+
+.Para, 
+#Description-Header {
+    color:orangered
+}
+
+#Description-Header {
+    background-color: royalblue;
+    text-align: right;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Para {
+    background-color: peachpuff;
+}
+
+.Ingredients {
+    background-color: red;
+    color: yellow;
+}
+
+.Steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    background-color: blueviolet;
+    text-align: center;
+}
